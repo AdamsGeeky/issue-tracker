@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Bug in login page",
+      "description": "Users are unable to log in using their credentials."
+    },
+    {
+      "id": 2,
+      "title": "UI issue on dashboard",
+      "description": "Dashboard widgets are not rendering correctly on smaller screens."
+    },
+    {
+      "id": 3,
+      "title": "Performance issue with API",
+      "description": "API response times are higher than expected during peak hours."
+    },
+    {
+      "id": 4,
+      "title": "Error in user registration",
+      "description": "Registration form throws an error when entering special characters in the username."
+    }
+  ]
+  
